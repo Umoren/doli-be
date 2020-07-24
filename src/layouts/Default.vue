@@ -314,21 +314,8 @@ form.example::after {
   
 }
 
-@font-face {
-    font-family: 'Elmo';
-    src: url('../../static/elmer-webfont.woff') format('woff'), /* Modern Browsers */
-         url('../../static/elmer-webfont.ttf') format('truetype'); /* Safari, Android, iOS */
-             font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;}
 
-@font-face {
-    font-family: 'Tonii-blacc';
-    src: url('../../static/Tonii-blacc.woff') format('woff'), /* Modern Browsers */
-         url('../../static/Tonii-blacc.ttf') format('truetype'); /* Safari, Android, iOS */
-             font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;}
+
 * {box-sizing: border-box;}
 
 

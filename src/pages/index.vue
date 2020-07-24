@@ -21,8 +21,8 @@
 </div>
 <div class="Hamburger"  @click.prevent="toggleClass">
   <i class="Icon">
-    <g-image src="../../static/d1.svg"/>
-        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+    <g-image src="https://res.cloudinary.com/samtech/image/upload/v1594915519/X_-_1.svg"/>
+        <!-- <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/> -->
   
   </i>
 </div>
@@ -32,7 +32,7 @@
     <div class="item item1" style="margin-bottom:.34em;">
       
       <g-link to="/product/">
-    <g-image src="~/../static/metal.gif"/>
+    <g-image src="https://res.cloudinary.com/samtech/image/upload/v1594915519/X_-_1.svg"/>
     </g-link></div>
     <div class="item item2"> <p style="margin-bottom:1.34em; font-size: 1em; text-align:right;transform: rotate(0deg)"></p></div>
   </div>

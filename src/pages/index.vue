@@ -27,7 +27,7 @@
   </i>
 </div>
   
-  <div class="container"><h4 style="font-size:1em;">Hiya <br><br> Right now I've deployed this gridsome site with netlify and none of the images are present. When I snoop around in Inspect, I can see errors that are causing this. But I don't understand them. The images ARE somewhere in the render, but I don't know why they don't work as they do in the Local8080.<br><br>That is clearly the foremost issue I have, but there are others too! I could use help with javascript. I need a very simple way to play audio clips. I need a very simple and functional check-out cart (paypal only) and I need a indexed-site search.</h4>
+  <div class="container"><h4 style="font-size:1em;">Hiya <br><br> Fuck me ve deployed this gridsome site with netlify and none of the images are present. When I snoop around in Inspect, I can see errors that are causing this. But I don't understand them. The images ARE somewhere in the render, but I don't know why they don't work as they do in the Local8080.<br><br>That is clearly the foremost issue I have, but there are others too! I could use help with javascript. I need a very simple way to play audio clips. I need a very simple and functional check-out cart (paypal only) and I need a indexed-site search.</h4>
   <div class="left">
     <div class="item item1" style="margin-bottom:.34em;">
       
